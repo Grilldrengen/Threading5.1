@@ -1,0 +1,18 @@
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading5\Threading5\bin\Debug\Threading5.exe.config
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading5\Threading5\obj\Debug\Threading5.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading5\Threading5\bin\Debug\Threading5.exe
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading5\Threading5\bin\Debug\Threading5.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading5\Threading5\obj\Debug\Threading5.exe
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading5\Threading5\obj\Debug\Threading5.pdb
+C:\Users\PerGrill\Documents\Visual Studio 2015\Projects\Threading5\Threading5\bin\Debug\Threading5.exe.config
+C:\Users\PerGrill\Documents\Visual Studio 2015\Projects\Threading5\Threading5\obj\Debug\Threading5.exe
+C:\Users\PerGrill\Documents\Visual Studio 2015\Projects\Threading5\Threading5\obj\Debug\Threading5.pdb
+C:\Users\PerGrill\Documents\Visual Studio 2015\Projects\Threading5\Threading5\bin\Debug\Threading5.exe
+C:\Users\PerGrill\Documents\Visual Studio 2015\Projects\Threading5\Threading5\bin\Debug\Threading5.pdb
+C:\Users\PerGrill\Documents\Visual Studio 2015\Projects\Threading5\Threading5\obj\Debug\Threading5.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\Threading5.1\bin\Debug\Threading5.exe.config
+C:\Users\nikol\Desktop\Threading5.1\obj\Debug\Threading5.exe
+C:\Users\nikol\Desktop\Threading5.1\obj\Debug\Threading5.pdb
+C:\Users\nikol\Desktop\Threading5.1\bin\Debug\Threading5.exe
+C:\Users\nikol\Desktop\Threading5.1\bin\Debug\Threading5.pdb
+C:\Users\nikol\Desktop\Threading5.1\obj\Debug\Threading5.csprojResolveAssemblyReference.cache
